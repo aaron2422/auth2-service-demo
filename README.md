@@ -1,5 +1,5 @@
 # auth2-service-demo
-基于Spring security实现的权限认证Demo
+基于Spring security实现的权限认证
 1. 获取token:
 
    > localhost:8888/oauth/token?username=tom&password=111&grant_type=password&scope=select&client_id=andorid-app&client_secret=123
