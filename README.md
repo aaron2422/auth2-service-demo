@@ -1,4 +1,4 @@
-# auth2-service-demo
+# auth2-service
 基于Spring security实现的权限认证
 1. 获取token:
 
